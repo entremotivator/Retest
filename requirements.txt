@@ -1,0 +1,5 @@
+pandas 
+plotly 
+folium 
+streamlit-folium 
+numpy
